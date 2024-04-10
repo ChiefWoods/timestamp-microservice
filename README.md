@@ -4,7 +4,7 @@
 
 Timestamp microservice for Back End Development and APIs in [freeCodeCamp](https://www.freecodecamp.org/learn/).
 
-[Live Website](https://timestamp-microservice.chiefwoods.repl.co/)
+[Live Website](https://timestamp-microservice-chiefwoods.replit.app/)
 
 [Source Repository](https://github.com/ChiefWoods/timestamp-microservice)
 
@@ -45,6 +45,10 @@ git clone https://github.com/ChiefWoods/timestamp-microservice.git
 2. Install all dependencies
 ```
 npm install
+```
+3. Start development server
+```
+npm run start
 ```
 
 ## Issues
